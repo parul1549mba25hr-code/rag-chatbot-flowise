@@ -69,7 +69,9 @@ This project is a Retrieval-Augmented Generation (RAG) based chatbot built using
 
 ## Screenshot / Demo
 
-(Add your project screenshot here)
+<img width="1440" height="900" alt="Screenshot 2026-04-08 at 9 45 31 AM" src="https://github.com/user-attachments/assets/784be12d-355f-4b3d-98e4-fc654bce819f" />
+
+
 
 ---
 
